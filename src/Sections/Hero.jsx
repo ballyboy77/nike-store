@@ -3,7 +3,7 @@ import Button from "../Components/Button";
 import ShoeCard from "../Components/ShoeCard";
 import { arrowRight } from "../assets/icons";
 import { bigShoe1 } from "../assets/images";
-import { shoes, statistics } from "../constants";
+import { shoes, statistics } from "../Constants";
 
 export default function Hero() {
   const [bigShoeImg, setBigShoeImg] = useState(bigShoe1);

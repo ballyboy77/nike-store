@@ -1,5 +1,5 @@
 import ReviewCard from "../Components/ReviewCard";
-import { reviews } from "../constants";
+import { reviews } from "../Constants";
 
 export default function CustomerReviews() {
   return (
