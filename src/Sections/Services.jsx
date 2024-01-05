@@ -1,5 +1,5 @@
 import ServiceCard from "../Components/ServiceCard";
-import { services } from "../constants";
+import { services } from "../Constants/index";
 
 export default function Services() {
   return (
