@@ -8,7 +8,7 @@ export default function SuperQuality() {
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
     >
       <div className="flex flex-1 flex-col">
-        <h2 className=" font-palanquin capitalize text-4xl lg:max-w-lg font-bold ">
+        <h2 className=" font-palanquin capitalize  max-sm:text-[2.5rem] text-[4rem] lg:max-w-lg font-bold ">
           We Provide You
           <span className=" pl-5 text-coral-red">Super</span>
           <span className="text-coral-red pr-3">Quality</span>
