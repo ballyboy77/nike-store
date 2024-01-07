@@ -9,7 +9,7 @@ export default function PopularProductCard({ imgURL, name, price }) {
         <p className="font-montserrat text-xl  text-slate-gray">(4.5)</p>
         <h3 className="mt-1 text-xl  font-palanquin ">{name}</h3>
       </div>
-      <p className=" ml-36  mt-2 font-semibold font-montserrat text-coral-red">
+      <p className=" ml-36  mt-2 font-semibold font-montserrat text-slate-gray">
         {price}
       </p>
     </div>
