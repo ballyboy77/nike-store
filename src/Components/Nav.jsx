@@ -1,6 +1,6 @@
 import { menu } from "../assets/icons";
 import { headerLogo } from "../assets/images";
-import { navLinks } from "../constants";
+import { navLinks } from "../Constants";
 
 export default function Nav() {
   return (
