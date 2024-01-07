@@ -2,7 +2,7 @@ import { star } from "../assets/icons";
 
 export default function PopularProductCard({ imgURL, name, price }) {
   return (
-    <div className="flex flex-1 justify-center flex-col max-sm:w-full hover:shadow-md cursor-pointer  ">
+    <div className="flex flex-1 justify-center flex-col max-sm:w-full hover:shadow-lg cursor-pointer  ">
       <img src={imgURL} alt={name} className="w-[280px] h-[280px]" />
       <div className=" mt-6 flex justify-start gap-2 ml-5 ">
         <img src={star} alt="ratings" height={24} width={24} />
